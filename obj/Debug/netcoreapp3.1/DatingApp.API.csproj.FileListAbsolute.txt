@@ -65,3 +65,9 @@ C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.
 C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wzxzj\Documents\Projects\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
